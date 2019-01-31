@@ -1,7 +1,7 @@
 # Google-Chrome-Browser-Database-Hack
 
 *#python* *#python3* *#3* *#google* *#chrome* *#browser* *#tutoiral *#database* *#cracking* *#sqlite3* *#sql* *#sql hacks* *#facebook*
-*#twitter* *#gmail* *#reddit* *#instagram* *#account* *#username* *#password* *#pswd* *#pwd* 
+*#twitter* *#gmail* *#reddit* *#instagram* *#account* *#username* *#password* *#pswd* *#pwd* *#hacking* *#hack* *#hacks* *#how* *#to*
 
 ## Code Walk-through & Learning resources links
 **YouTube tutorial: https://bit.ly/2UvkpgT**
